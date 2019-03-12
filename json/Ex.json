@@ -1,0 +1,115 @@
+{
+  "questions": {
+    "question": [
+      {
+        "type": "text",
+        "title": "Como se llama la tecnica que usa vegeta para intentar vencer a Cell?",
+        "answer": "Final Flash"
+      },
+      {
+        "type": "text",
+        "title": "Como se llama la fusion con potara de Goku y Vegeta?",
+        "answer": "Vegetto"
+      },
+      {
+        "type": "select",
+        "title": "Como se llama el padre de Goku?",
+        "option": [
+          "Vegeta",
+          "Bardock",
+          "Gohan",
+          "Turles"
+        ],
+        "answer": "1"
+      },
+      {
+        "type": "select",
+        "title": "Cual es la unica tecnica que ha creado Goku?",
+        "option": [
+          "Kamehameha",
+          "Bola Genki",
+          "Puño del Dragon",
+          "Kaio Ken"
+        ],
+        "answer": "2"
+      },
+      {
+        "type": "multiple",
+        "title": "Como se llaman los hijos de Vegeta? ",
+        "option": [
+          "Bra",
+          "Goku",
+          "Trunks",
+          "Yamcha"
+        ],
+        "answer": [
+          "0",
+          "2"          
+        ]
+      },
+      {
+        "type": "multiple",
+        "title": "Cuales de los siguientes han siguientes han sido maestros de Goku?",
+        "option": [
+          "Korin",
+          "Roshi",
+          "Piccolo",
+          "Kaito"
+        ],
+        "answer": [
+          "0",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "title": "Quien fue el primer maestro de Goku?",
+        "option": [
+          "Korin",
+          "Gohan",
+          "Roshi",
+          "Whis"
+        ],
+        "answer": [
+          "1"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "title": "Como se llamaba la madre de Goku?",
+        "option": [
+          "Bulma",
+          "Gine",
+          "Launch",
+          "Fasha"
+        ],
+        "answer": [
+          "1"
+        ]
+      },
+      {
+        "type": "radio",
+        "title": "Como se llama la hija de C-18 y Krillin?",
+        "option": [
+          "Marron",
+          "Chichi",
+          "Arale",
+          "Pan"
+        ],
+        "answer": "0"
+      },
+      {
+        "type": "radio",
+        "title": "En que planeta aprencio Goku la tecnica de la teletransportacion?",
+        "option": [
+          "Planeta Namek",
+          "Planeta Tierra",
+          "Planeta Vegeta",
+          "Planeta Yadrat"
+        ],
+        "answer": "3"
+      }
+    ]
+  }
+}
